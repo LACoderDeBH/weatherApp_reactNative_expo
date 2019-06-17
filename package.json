@@ -7,10 +7,15 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@hapi/topo": "^3.1.0",
+    "axios": "^0.19.0",
+    "core-js": "^3.1.4",
     "expo": "^31.0.2",
-    "react": "16.5.0",
+    "joi": "^14.3.1",
+    "react": "^16.5.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
-    "react-native-scripts": "1.12.0"
+    "react-native-scripts": "1.12.0",
+    "topo": "^3.0.3"
   },
   "devDependencies": {
     "babel-preset-expo": "^5.0.0"
